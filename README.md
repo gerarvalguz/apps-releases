@@ -8,4 +8,4 @@ Para más información, visita nuestro sitio oficial: [onceonce.onceonce.workers
 - **CleanMac** (v1.1.0): Optimizador ligero nativo para macOS.
 - **Instafollow Pro** (v1.0.2): Auditoría y análisis de seguidores de Instagram con protección anti-bloqueo.
 - **Adamantium Suite**: Suite todo-en-uno de productividad, IA local, vectorizado, transcripción y automatización.
-- **SocialHub** (v1.2.3): Hub unificado de mensajería y redes sociales (WhatsApp, Telegram, Instagram, Messenger, Discord, X) para macOS.
+- **SocialHub** (v1.2.4): Hub unificado de mensajería y redes sociales (WhatsApp, Telegram, Instagram, Messenger, Discord, X) para macOS.
